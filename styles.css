@@ -1,0 +1,26 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+    margin: 0 auto;
+    padding: 70px;
+    background-color: rgb(219, 233, 246);
+    p.description { 
+        font-style: oblique;
+      }
+}
+header,
+main,
+article,
+footer {
+	background-color: rgb(210, 250, 251);
+}
+main{
+    font-size:20px;
+    font-family: verdana;
+}
+.underline{
+    text-decoration: underline;
+}
+#shaddow{
+     text-shadow: 2px 2px #ff0000;
+}
